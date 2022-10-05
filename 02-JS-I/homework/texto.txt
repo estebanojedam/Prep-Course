@@ -1,0 +1,5 @@
+variable: son utilizadas para darle nombre a un valor y que podemos usar mas tarde.
+string: una cadena de textos encerrada entre comillas.
+funciones (argumantos, "return"): da por terminada la funcion ejecutada y especifica el valor para ser devuelto a quien llama la funcion.
+declaraciones "if": es utilizada para determinar una expresion, si se cumple la condicion siendo esta "true" pasara a ejecutar un bloque de codigo.
+valores booleanos: representan un valor de verdad, este puede ser "true" o "false".
